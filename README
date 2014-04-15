@@ -1,0 +1,89 @@
+The 487 YouTube Sports Dataset.
+-------------------------------
+
+License: see below.
+
+We provide links to YouTube videos containing one of 487 sports. The annotations
+were generated automatically using the the YouTube Topics, which has a public
+API accessible at:
+
+https://developers.google.com/youtube/v3/guides/searching_by_topic
+
+Compression: in order to save space, we compressed all the text files referenced
+below via gzip. To decompress run gzip -d <filename.gz> in order to obtain the
+original filename that we refer to below.
+
+The files included in this package are:
+
+original/test_partition.txt - this contains the testing partition.
+original/train_partition.txt - this contains the training partition.
+
+The format for the training/testing partitions is as follows:
+URL<space><CSV of Label Indices>
+
+For example, the following line is a valid input:
+https://www.youtube.com/watch?v=UDqivjS-lpI 168,169
+
+This assigns labels 168, and 169 to the video found at given URL.
+
+labels.txt - this file contains the human-readable labels for the train/test
+partitions. The first line in the file is assumed to correspond to label 0
+(boomerang), and the last corresponds to index 486 (model aircraft).
+
+Extra files:
+cross-validation/all_urls.txt - all URLs and labels bundled together (good
+starting point if you want to make cross-validation partitions). The format is
+as explained above.
+
+cross-validation/sportsX_train.txt & cross-validation/sportsX_test.txt for X
+having values from 0 to 9. These are partitions for 10-fold cross-validation.
+Since a video may have more than one label, it may appear both in training and
+in testing. For example, video ABPsSSS2uY0 appears in fold 0 with class 49 for
+training and class 26 for testing.
+
+License
+-------
+
+This data set is made available under a Creative Commons License:
+  http://creativecommons.org/licenses/by/3.0/
+
+Attribution 3.0 Unported (CC BY 3.0) Human-Readable Summary
+===========================================================
+
+You are free:
+ - to Share -- to copy, distribute and transmit the work;
+ - to Remix -- to adapt the work;
+and to make commercial use of the work.
+
+
+Under the following conditions:
+
+* Attribution -- You must attribute the work in the manner specified
+by the author or licensor (but not in any way that suggests that
+they endorse you or your use of the work).
+
+
+With the understanding that:
+
+* Waiver -- Any of the above conditions can be waived if you get
+permission from the copyright holder.
+
+* Public Domain -- Where the work or any of its elements is in
+the public domain under applicable law, the status is in no way
+affected by the license.
+
+* Other Rights -- In no way are any of the following rights
+affected by the license:
+
+ - Your fair dealing or fair use rights, or other applicable
+copyright exceptions and limitations;
+
+ - The author's moral rights;
+
+ - Rights other persons may have either in the work itself or
+in how the work is used, such as publicity or privacy rights.
+
+* Notice -- For any reuse or distribution, you must make clear
+to others the license terms of this work.  The best way to do
+this is with a link to this web page:
+  http://creativecommons.org/licenses/by/3.0/
