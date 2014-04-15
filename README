@@ -1,11 +1,11 @@
-The 487 YouTube Sports Dataset.
+The YouTube Sports-1M Dataset.
 -------------------------------
 
 License: see below.
 
-We provide links to YouTube videos containing one of 487 sports. The annotations
-were generated automatically using the the YouTube Topics, which has a public
-API accessible at:
+We provide links to 1,133,158 YouTube videos annotated with 487 sports labels. 
+The annotations were generated automatically using the the YouTube Topics, 
+which has a public API accessible at:
 
 https://developers.google.com/youtube/v3/guides/searching_by_topic
 
