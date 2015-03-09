@@ -1,0 +1,487 @@
+/m/010dmf,isle of man tt
+/m/012v4j,hiking
+/m/012wds,schutzhund
+/m/014q5m,kyūdō
+/m/014zc9,eskrima
+/m/0150fh,ultralight aviation
+/m/0152n0,skeleton (sport)
+/m/015_x,cue sports
+/m/0161df,ulama
+/m/0162j4,rafting
+/m/0163gn,paintball
+/m/0179ss,airsoft
+/m/017knx,nordic skiing
+/m/017ndv,telemark skiing
+/m/01814z,bodyboarding
+/m/018220,bull riding
+/m/018gpn,hurdles
+/m/018hjb,sport kite
+/m/018jz,baseball
+/m/018w8,basketball
+/m/018yrv,barrel racing
+/m/0194d,badminton
+/m/0199g,bicycle
+/m/019rjn,futsal
+/m/019w5g,calisthenics
+/m/019w9j,rhythmic gymnastics
+/m/019ww6,harness racing
+/m/019x8g,sheepdog trial
+/m/01_90z,butterfly stroke
+/m/01__ps,breaststroke
+/m/01__t,canadian football
+/m/01b57x,trampolining
+/m/01b7b1,kitesurfing
+/m/01bdg,bouldering
+/m/01bdy,bowling
+/m/01blkn,bullfighting
+/m/01c1t2,canyoning
+/m/01cgz,boxing
+/m/01chy,bowls
+/m/01cwd,bocce
+/m/01dd1s,acrobatics
+/m/01dd3,boomerang
+/m/01ddb4,brazilian jiu-jitsu
+/m/01ddm,bodybuilding
+/m/01dhjg,ten-pin bowling
+/m/01dys,biathlon
+/m/01f235,baguazhang
+/m/01f3p,base jumping
+/m/01f6l,bandy
+/m/01f_rk,fly fishing
+/m/01fd71,footbag
+/m/01ft7q,dodgeball
+/m/01gg0y,windsurfing
+/m/01gk99,free running
+/m/01gl50,angling
+/m/01glyd,trapeze
+/m/01gpzg,flag football
+/m/01gqfm,beach volleyball
+/m/01h7lh,mixed martial arts
+/m/01h7tx,roller skating
+/m/01hhc2,motorcycle speedway
+/m/01hj4t,pommel horse
+/m/01hj56,rings (gymnastics)
+/m/01hj6r,parallel bars
+/m/01hl50,uneven bars
+/m/01hp22,artistic gymnastics
+/m/01hrk6,arena football
+/m/01j2t1,fives
+/m/01j37x,jai alai
+/m/01j4yx,dragon boat
+/m/01jr9x,shaolin kung fu
+/m/01kbw8,dinghy sailing
+/m/01l0zd,skeet shooting
+/m/01lp7f,motocross
+/m/01mq8b,riverboarding
+/m/01mtwq,inline speed skating
+/m/01n7yl,pentathlon
+/m/01p642,sled dog racing
+/m/01p7j8,free-diving
+/m/01prsy,canoe polo
+/m/01psvn,canoeing
+/m/01q0g0,skittles (sport)
+/m/01qcyb,kalaripayattu
+/m/01qy44,sepak takraw
+/m/01rw_4,sea kayak
+/m/01rwk,climbing
+/m/01s6w2,heptathlon
+/m/01sgl,cycling
+/m/01sk79,spearfishing
+/m/01sv6,capoeira
+/m/01t1v5,tee ball
+/m/01t4m0,freestyle swimming
+/m/01thl6,kenpō
+/m/01tm7f,kajukenbo
+/m/01txv3,shorinji kempo
+/m/01v2s5,lure coursing
+/m/01vfnn,candlepin bowling
+/m/01vqp5,systema
+/m/01x3jk,snowmobile
+/m/01x6fm,jujutsu
+/m/01xs30,personal water craft
+/m/01xs7r,all-terrain vehicle
+/m/01yf2,croquet
+/m/01yfj,curling
+/m/01yjkq,cross country running
+/m/01z27,cross-country skiing
+/m/01zkt1,whitewater kayaking
+/m/0203r8,backstroke
+/m/020_l8,ice climbing
+/m/020rfd,supermoto
+/m/021n63,one day international
+/m/021wms,medley swimming
+/m/023hb6,darts
+/m/023tkl,abseiling
+/m/0243gp,northern praying mantis (martial art)
+/m/025sylx,kayaking
+/m/0262r_h,rink bandy
+/m/0263qf6,roller hockey (quad)
+/m/026dvhh,deer hunting
+/m/026km1b,desert racing
+/m/026p7j9,beach handball
+/m/027360c,pole climbing (gymnastic)
+/m/02751q_,ringette
+/m/0279dj8,creeking
+/m/027f65b,valencian pilota
+/m/027tcv3,rally obedience
+/m/027td8k,pond hockey
+/m/027vxwm,valencian frontó
+/m/027x7n,physical fitness
+/m/027xnb0,freestyle slalom skating
+/m/027zmvf,trick shot
+/m/0283247,track racing
+/m/0289j0,straight pool
+/m/0290t8,dog agility
+/m/02916,disc golf
+/m/0292vy,skimboarding
+/m/0296c5,obedience training
+/m/0296cl,noodling
+/m/0297yz,flyball
+/m/0299pv,conformation show
+/m/02_5h,figure skating
+/m/02_sx,floorball
+/m/02b9x,drag racing
+/m/02bjzr,battōjutsu
+/m/02bkg,diving
+/m/02c3nd,indoor soccer
+/m/02cxd4,sledding
+/m/02dd4c,slamball
+/m/02gh6t,underwater hockey
+/m/02gy18,skipping rope
+/m/02gy5l,pilates
+/m/02k5b8,rugby sevens
+/m/02klfh,disc dog
+/m/02l4p4,capture the flag
+/m/02l5zk,duathlon
+/m/02ljyp,big-game fishing
+/m/02lwdz,wingsuit flying
+/m/02nb1,eight-ball
+/m/02ngb1,ultramarathon
+/m/02ntc1,gridiron football
+/m/02p81ht,hot air ballooning
+/m/02pltrv,cross-country cycling
+/m/02py307,beach tennis
+/m/02q4qb,hydroplane racing
+/m/02q5rd5,blackball (pool)
+/m/02qwpr1,surf fishing
+/m/02r_hb,synchronized skating
+/m/02rdxk8,tricking
+/m/02rjgzp,crossfit
+/m/02rl89,gatka
+/m/02tp4d,cross-country equestrianism
+/m/02vpwc,xing yi quan
+/m/02vqc_n,sport aerobics
+/m/02vx4,association football
+/m/02w1kw,women's lacrosse
+/m/02w5bzy,french ring sport
+/m/02wggl,highland games
+/m/02xcm6,indoor american football
+/m/02xhs6,carom billiards
+/m/02y74,field hockey
+/m/02y8z,fencing
+/m/02z1sh,autocross
+/m/02zjm7,adventure racing
+/m/02zt3,kite
+/m/02zwkp,shuffleboard
+/m/03138g,knife throwing
+/m/0315zf,skee ball
+/m/0317qd,short track motor racing
+/m/0329xf,toboggan
+/m/032nb1,sprint car racing
+/m/032wfk,road racing
+/m/0336tf,broomball
+/m/033s60,endurance racing (motorsport)
+/m/036vg6,wrestling
+/m/037hz,golf
+/m/03928,geocaching
+/m/0397w,gymnastics
+/m/039cp,grappling
+/m/039r_,gliding
+/m/039xkh,sporting clays
+/m/03_8r,judo
+/m/03b34z,twenty20
+/m/03bgj7,sport climbing
+/m/03bs3p,sanshou
+/m/03bx07d,longboarding
+/m/03bx9vm,pencak silat
+/m/03cs8dk,freestyle scootering
+/m/03cvrz,mountainboarding
+/m/03d8m_,monster truck
+/m/03dk9t,roller derby
+/m/03dm3w,air racing
+/m/03fg7b,mushing
+/m/03fyrh,greco-roman wrestling
+/m/03gl6p,gymkhana
+/m/03gq92j,motorcycle racing
+/m/03gtxz,wheelchair basketball
+/m/03hdm9,streetluge
+/m/03hfn0,backpacking (wilderness)
+/m/03hfzm1,silat
+/m/03hrn8,cyclo-cross
+/m/03krj,team handball
+/m/03ksqp,cowboy action shooting
+/m/03lh85,kickball
+/m/03lnt,hang gliding
+/m/03lz8t,juggling club
+/m/03mr6,hockey
+/m/03mz0c,basque pelota
+/m/03n_pf,haidong gumdo
+/m/03nn6b,reining
+/m/03p67l,equitation
+/m/03q0c2,flying disc freestyle
+/m/03q_cn,sandboarding
+/m/03qcdx1,tumbling (gymnastics)
+/m/03qzgq,rock climbing
+/m/03rbzn,race walking
+/m/03rl3m,laser tag
+/m/03s0pg,amateur wrestling
+/m/03sbs5,strength athletics
+/m/03srkc,street hockey
+/m/03tmr,ice hockey
+/m/03vcgb,ski touring
+/m/03vy48,footvolley
+/m/03w4zg,wallball
+/m/03w9g1k,rally raid
+/m/03wbbn,goalball
+/m/03x4c1,tchoukball
+/m/03x5jl,yağlı güreş
+/m/03xbw,ice skating
+/m/03xcwx,powered paragliding
+/m/03xwlw,endurance
+/m/03yfd7,indoor field hockey
+/m/03yw4c,boccia
+/m/03zsp5,half marathon
+/m/040kqv,rallycross
+/m/041d65,vovinam
+/m/042rz,jetsprint
+/m/043p8g9,dock jumping
+/m/0462zh,street football
+/m/0466kx,off-road racing
+/m/046j38,streetball
+/m/0486tv,freestyle wrestling
+/m/048dz,karate
+/m/048fg,kickboxing
+/m/048yh,krav maga
+/m/048ytx,russian pyramid
+/m/04943c,pradal serey
+/m/04945,korfball
+/m/049sv,kung fu (term)
+/m/04_1jmn,surf kayaking
+/m/04b0s,kabaddi
+/m/04c9r,kendo
+/m/04c_0y,football tennis
+/m/04d89p,powerbocking
+/m/04d914,race of champions
+/m/04dly4,sambo (martial art)
+/m/04dpf8,wiffle ball
+/m/04j0q9,taido
+/m/04l75m,english pleasure
+/m/04lggtd,majorette (dancer)
+/m/04lgq,lacrosse
+/m/04n4vj,practical shooting
+/m/04njq1,scuba diving
+/m/04r4bq,trap shooting
+/m/04ttsh,dirt track racing
+/m/04v38h,banger racing
+/m/04xpvv,shoot boxing
+/m/04xz3,muay thai
+/m/04yr41,drifting (motorsport)
+/m/052fxs,inline hockey
+/m/052rvr,carting
+/m/052t3t,charreada
+/m/053d3h,demolition derby
+/m/053f5,mountaineering
+/m/0549d_,endurance riding
+/m/055rn5,kuk sool won
+/m/057pr8,ice racing
+/m/05d8z1,wing tsun
+/m/05d_xk,autograss
+/m/05dsq7,casting (fishing)
+/m/05f2b,netball
+/m/05f6p,nine-ball
+/m/05g3yw,jianzi
+/m/05gmc2,snowkiting
+/m/05gv5n,time attack
+/m/05gw1s,skijoring
+/m/05h35z,formula racing
+/m/05kwkd,finswimming
+/m/05l5fb,robot combat
+/m/05mb6,f1 powerboat racing
+/m/05mz8,orienteering
+/m/05p9vj,artistic roller skating
+/m/05q0q,limited overs cricket
+/m/05rd2s,street racing
+/m/05syqj9,aggressive inline skating
+/m/05tfch,road bicycle racing
+/m/05vvpw,folkrace
+/m/05wb76,tang soo do
+/m/05x3jb,downhill mountain biking
+/m/05yz00,motorboat racing
+/m/05zmb,parachuting
+/m/0606mz,zui quan
+/m/060snx,freestyle bmx
+/m/061bh,parasailing
+/m/061px,pankration
+/m/0622bf,beach soccer
+/m/062zrt,freeride
+/m/062zyx,rundown
+/m/063c7,polo
+/m/063wkj,pickleball
+/m/064bf8,slacklining
+/m/064f7_,weight pulling
+/m/066bv7,motorcycle drag racing
+/m/06_g7,surfing
+/m/06_knc,equestrian vaulting
+/m/06br8,rugby
+/m/06f41,rowing (sport)
+/m/06h7j,running
+/m/06hgz,roller hockey
+/m/06k44z,modern arnis
+/m/06kryj,western pleasure
+/m/06pp3t,kite buggy
+/m/06rlx8,clay pigeon shooting
+/m/06tn4,snooker
+/m/06wn35,land sailing
+/m/06wrt,sailing
+/m/06ydz,savate
+/m/06z68,synchronized swimming
+/m/06z6r,swimming (sport)
+/m/06zfw,skateboarding
+/m/06zgc,speed skating
+/m/070m9,stock car racing
+/m/071k0,skiing
+/m/071t0,shooting sport
+/m/073p_r,fujian white crane
+/m/076zw,sighthound
+/m/07_53,volleyball
+/m/07bs0,tennis
+/m/07gyv,taekwondo
+/m/07jbh,table tennis
+/m/07jjt,track cycling
+/m/07k4r,t'ai chi ch'uan
+/m/07l1zh,skibobbing
+/m/07lb3,test cricket
+/m/07rlg,triathlon
+/m/07t8j,ultimate (sport)
+/m/07vw23,hunt seat
+/m/07wy17,pehlwani
+/m/07zm_g,tractor pulling
+/m/081w1d,ball (rhythmic gymnastics)
+/m/081w35,hoop (rhythmic gymnastics)
+/m/081w3j,ribbon (rhythmic gymnastics)
+/m/081w4k,rope (rhythmic gymnastics)
+/m/083mg,walking
+/m/084bl,wakeboarding
+/m/084rw,wing chun
+/m/085r4f,okinawan kobudō
+/m/087c_r,dachshund racing
+/m/087zy,yoga
+/m/089lt2,horseball
+/m/08mb2z,flying trapeze
+/m/08n2_m,dirt jumping
+/m/08rkn5,frontenis
+/m/08zvcl,enduro
+/m/092x18,trial
+/m/094jc,fishing
+/m/09515x,soft tennis
+/m/096c6y,ga-ga
+/m/096f8,show jumping
+/m/099t47,wushu (sport)
+/m/09_0g6,rock fishing
+/m/09_9n,ski jumping
+/m/09_b4,freestyle skiing
+/m/09_bl,short track speed skating
+/m/09b7ls,shuai jiao
+/m/09dg5,gaelic football
+/m/09f6b,luge
+/m/09h901,shidokan
+/m/09hkc,bmx
+/m/09p5m,hunting
+/m/09ptb,greyhound racing
+/m/09qfq2,sledge hockey
+/m/09qgm,snowboarding
+/m/09qkx,board sports
+/m/09rx5,racquetball
+/m/09sng,hide-and-seek
+/m/09w1n,alpine skiing
+/m/09wz9,bobsleigh
+/m/09xp_,cricket
+/m/09ymtd,freestyle football
+/m/0b7pvt,color guard (flag spinning)
+/m/0bbd4m,drag boat racing
+/m/0bbxq8q,ball hockey
+/m/0bcgj0,ten-ball
+/m/0bcn9w,baton twirling
+/m/0bdbpn,obedience trial
+/m/0by1tn,peteca
+/m/0bypt,decathlon
+/m/0byz3d,pitch and putt
+/m/0c4f_,weight training
+/m/0c7753,steeplechase
+/m/0cgtq2,jōdō
+/m/0ch1v_m,3x3 (basketball)
+/m/0ch_b9,freestyle motocross
+/m/0cqmp,vault (gymnastics)
+/m/0cqn2,horizontal bar
+/m/0crlz,water polo
+/m/0csp7p,kite landboarding
+/m/0ct4k8,fistball
+/m/0d1t3,dressage
+/m/0d1tm,eventing
+/m/0d22wz,rope climbing
+/m/0d38m,marathon
+/m/0db10c,mud bogging
+/m/0ddhz,iaidō
+/m/0dj8k,kenjutsu
+/m/0dn7v,sumo
+/m/0dr0h,touring car racing
+/m/0dr0x,sports car racing
+/m/0dr19,rallying
+/m/0drnw4,bikejoring
+/m/0dshv_,padel tennis
+/m/0dv6r,squash (sport)
+/m/0dwxr,modern pentathlon
+/m/0f4p9,kart racing
+/m/0f5cl,grand prix motorcycle racing
+/m/0f6nr,unicycle
+/m/0f6p6,mountain unicycling
+/m/0f7kfd,auto race
+/m/0f8vz4,truck racing
+/m/0fbm_g,slopestyle
+/m/0fbrr4,freeboard (skateboard)
+/m/0fdb3,jeet kune do
+/m/0fxztn,team penning
+/m/0g42sd,chilean rodeo
+/m/0g7my,superbike racing
+/m/0gd_ym,powered hang glider
+/m/0gkc82,wakesurfing
+/m/0h1j7,paragliding
+/m/0h5t4,powerlifting
+/m/0hbj9,hapkido
+/m/0hf73,aerobatics
+/m/0hglspz,olympic weightlifting
+/m/0hgts,pétanque
+/m/0hgv8,boules
+/m/0hm1h,snorkeling
+/m/0hx74,fox hunting
+/m/0j3gg,rounders
+/m/0jjc,aikido
+/m/0jm_,american football
+/m/0jnbx,hurling
+/m/0jxw5,equestrianism
+/m/0jxxt,horse racing
+/m/0kfbd,rodeo
+/m/0kw94,softball
+/m/0l3mc,floor (gymnastics)
+/m/0l3ms,balance beam
+/m/0l8fl,model aircraft
+/m/0l_db,ninjutsu
+/m/0ltv,auto racing
+/m/0lyyx,radio-controlled car
+/m/0m058,bujinkan
+/m/0m91c,sprint (running)
+/m/0n0gq,match play
+/m/0n18n,daitō-ryū aiki-jūjutsu
+/m/0qjjc,remote control
+/m/0w0d,archery
+/m/0z74,australian rules football

@@ -3,8 +3,8 @@ The YouTube Sports-1M Dataset.
 
 License: see below.
 
-We provide links to 1,133,158 YouTube videos annotated with 487 sports labels. 
-The annotations were generated automatically using the the YouTube Topics, 
+We provide links to 1,133,158 YouTube videos annotated with 487 sports labels.
+The annotations were generated automatically using the the YouTube Topics,
 which has a public API accessible at:
 
 https://developers.google.com/youtube/v3/guides/searching_by_topic
@@ -29,6 +29,13 @@ This assigns labels 168, and 169 to the video found at given URL.
 labels.txt - this file contains the human-readable labels for the train/test
 partitions. The first line in the file is assumed to correspond to label 0
 (boomerang), and the last corresponds to index 486 (model aircraft).
+
+sports_mids.txt - this file  contains the Machine IDs necessary to retrieve
+videos from youtube.com via the topics search API. Each line contains the
+human-readable class name, and the YouTube topic ID, which may be used to
+directly retrieve videos for the given class using the API below:
+
+https://developers.google.com/youtube/v3/guides/searching_by_topic
 
 Extra files:
 cross-validation/all_urls.txt - all URLs and labels bundled together (good
