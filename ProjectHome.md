@@ -11,7 +11,7 @@ This dataset contains 1,133,158 video URLs which have been annotated automatical
 
 If you'd like to download the necessary files for this benchmark, run the following command:
 ```
-git clone https://code.google.com/p/sports-1m-dataset/
+git clone https://github.com/gtoderici/sports-1m-dataset.git
 ```
 
 Once you have downloaded the data, please read the [README](https://github.com/gtoderici/sports-1m-dataset/blob/master/README) file in order to see how to use this data.
