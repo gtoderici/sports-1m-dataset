@@ -1,7 +1,5 @@
-The YouTube Sports-1M Dataset.
--------------------------------
-
-License: see below.
+The YouTube Sports-1M Dataset
+-----------------------------
 
 We provide links to 1,133,158 YouTube videos annotated with 487 sports labels.
 The annotations were generated automatically using the the YouTube Topics,
@@ -47,6 +45,22 @@ having values from 0 to 9. These are partitions for 10-fold cross-validation.
 Since a video may have more than one label, it may appear both in training and
 in testing. For example, video ABPsSSS2uY0 appears in fold 0 with class 49 for
 training and class 26 for testing.
+
+Additional Information
+----------------------
+
+Wiki page: https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md
+
+Citation: 
+@inproceedings{KarpathyCVPR14,
+  title     = {Large-scale Video Classification with Convolutional Neural Networks},
+  author    = {Andrej Karpathy and George Toderici and Sanketh Shetty and Thomas Leung and Rahul Sukthankar and Li Fei-Fei},
+  year      = {2014},
+  booktitle = {CVPR}
+}
+
+Supplemental materials:
+http://cs.stanford.edu/people/karpathy/deepvideo/
 
 License
 -------
