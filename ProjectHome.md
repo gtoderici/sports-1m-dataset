@@ -25,3 +25,7 @@ The [sports_mid.txt](https://github.com/gtoderici/sports-1m-dataset/blob/master/
 
 ## Notes ##
 There is a [discussion group](https://groups.google.com/forum/#!forum/sports-1m-dataset) about this dataset. Please post specific questions there, and group members may be able to help.
+
+## Related Datasets ##
+
+Google Research has announced the availability of the [YouTube-8M](https://research.google.com/youtube8m/) dataset. Sports-1M is included within this new dataset, with frame-level features already extracted. If computational complexity is a concern (i.e., it is not feasible to extract features from Sports-1M), we highly recommend this new dataset, since it already provides the features.
